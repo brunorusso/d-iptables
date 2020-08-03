@@ -1,0 +1,14 @@
+List of TODO
+============
+
+1. Function - check_ip()
+ 	- need validator IP.
+
+2. Function - check_port()
+ 	- need validator port
+
+3. Need work with Network and host
+
+4. Need work with state of package
+
+5. List all rules of all tables

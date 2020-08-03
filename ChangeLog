@@ -1,0 +1,20 @@
+d-iptables Changelog
+
+
+  Version 0.1 (2007-04-23)
+  ========================
+
+* first release
+
+  Version 0.2 (2007-11-05)
+  ========================
+
+* Add rule for check IP Adrress
+* Check if IP source is same IP destination
+* Modify ask_rule() function. Now you can save the rules on a file or apply rules on kernel now.
+* Add create_file function. This function create a file /tmp/d-iptables.sh
+* Add write_rule function.
+* Deleted ask_see_rule function
+* Add ask_continue function
+
+
